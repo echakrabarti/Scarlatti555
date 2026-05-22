@@ -31,7 +31,7 @@ The database is built from MIDI corpora (Kunstderfuge, IMSLP) supplemented by an
 ## Features
 
 - [x] Project scaffolding and architecture
-- [ ] Real-time pitch extraction from browser mic (CREPE)
+- [ ] Real-time pitch extraction from browser mic (TORCHCREPE)
 - [ ] Tempo-invariant interval sequence matching
 - [ ] MIDI corpus ingestion (Kunstderfuge + IMSLP)
 - [ ] OMR pipeline for PDF scores (Audiveris)
@@ -39,17 +39,20 @@ The database is built from MIDI corpora (Kunstderfuge, IMSLP) supplemented by an
 - [ ] PostgreSQL + pgvector similarity search
 - [ ] Streamlit prototype UI
 - [ ] React web frontend
-- [ ] Sheet music display for matched theme (VexFlow)
 - [ ] React Native mobile app (iOS + Android)
 
+Possible features:
+- [ ] YouTube link for matched piece
+- [ ] Spotify/Apple Music compatibility: prompt to open recording in given streaming app?
+- [ ] Include everything you need to know about music to understand how this works in docs (e.g., what is an interval)
 ---
 
 ## Stack
 
 | Layer | Technology |
 |---|---|
-| Pitch extraction | CREPE (neural pitch tracker) |
-| Backend | Python 3.11, FastAPI |
+| Pitch extraction | torchcrepe (neural pitch tracker) |
+| Backend | Python 3.13.5, FastAPI |
 | Similarity search | pgvector (PostgreSQL extension) |
 | MIDI processing | pretty_midi, music21 |
 | OMR | Audiveris |
@@ -97,7 +100,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-*Full setup instructions will be added as the project develops. Eventually this will be a React-native app.*
+*Full setup instructions will be added as the project develops. Eventually this will be a React Native app.*
 
 ---
 
