@@ -2,7 +2,7 @@
 Newest entries at the top.
 
 ---
-## 2026-05-22 - [FDay 1: Project architecture, pitch pipeline (pitch.py)]
+## 2026-05-22 - [Day 1: Project architecture, pitch pipeline (pitch.py)]
 - Set up virtual environment
 - Fine-grained outline of stages and stack
     - 8 week timeline: (1) foundations, (2)matching engine, (3) React web app, (4) React Native mobile

@@ -1,4 +1,4 @@
-# Scarlatti555 🎵
+# Scarlatti555
 ### Identify classical music by humming (which SoundHound, Shazam, and Google can't do)
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
