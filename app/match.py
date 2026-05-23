@@ -8,12 +8,14 @@ THEME_SCHEMA = {
 }
 
 # hardcoded test corpus
+# TODO: each piece should have multiple themes, if applicable, as NumPy arr
+# TODO: ML-built data foundry for themes
 TEST_CORPUS = [
     {
         "title": "Symphony No. 5 in C minor",
         "composer": "Beethoven",
         "movement": 1,
-        "intervals": np.array([0, 0, -4])
+        "intervals": np.array([0, 0, -4, 2, 0, 0, -3])
     },
     {
         "title": "Fur Elise",
@@ -37,7 +39,25 @@ TEST_CORPUS = [
         "title": "The Four Seasons - Spring",
         "composer": "Vivaldi",
         "movement": 1,
-        "intervals": np.array([2, 1, 2, 2, 1, 2, 2])
+        "intervals": np.array([0, 0, 4, 1, 2, 5, 0, 0, -5, -2, -1, -4, 2, -2, -1, 1])
+    },
+    {
+        "title": "Humoresque No. 7",
+        "composer": "Dvorak",
+        "movement": None,
+        "intervals": np.array([2, -2, 2, 2, 3, 2, -2, 2, 3, -1, 3, -2, -1, 3, -2, -3, -5, 3, 0])
+    },
+    {
+        "title": "Nocturne in E-flat major",
+        "composer": "Chopin",
+        "movement": None,
+        "intervals": np.array([9, -2, 2, -2, -2, -5, 9, -7, 1, -1, -1, 1, 12, -5, 3, -2, -1, -2, 2])
+    },
+    {
+        "title": "Clair de Lune",
+        "composer": "Debussy",
+        "movement": None,
+        "intervals": np.array([12, -3, -8, 6, 2, -2, -7, 5, 2, -2, 4, -4, -7, 6, -2, 3, -1, -11, 2])
     }
 ]
 
