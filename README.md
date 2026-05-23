@@ -2,17 +2,17 @@
 ### Identify classical music by humming (which SoundHound, Shazam, and Google can't do)
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.13.5-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-> Named for Domenico Scarlatti, who wrote 555 keyboard sonatas — most of which no existing music identification tool can recognise from a hum. This project is built for the classical music lover with thousands of motives and themes in their head--and who can't always remember the piece associated with each one!
+> Named for Domenico Scarlatti, who wrote 555 keyboard sonatas--most of which no existing music identification tool can recognise from a hum. This project is built for the classical music lover with thousands of motives and themes in their head--and who can't always remember the piece associated with each one!
 
 ---
 
 ## The problem
 
-Shazam and SoundHound identify music by fingerprinting exact recordings. This makes them for identifying everything but the most popular classical music. Scarlatti555 chucks fingerprinting (hum->recording) in favour of contour matching (hum-> score), an approach that inherently advantageous for identifying a classical piece.
+Shazam and SoundHound identify music by fingerprinting exact recordings. When it comes to classical music, this makes these apps useless for everything except the most popular piece. Scarlatti555 chucks fingerprinting (hum->recording) in favour of contour matching (hum-> score), an approach that inherently advantageous for identifying a classical piece.
 
 ---
 
