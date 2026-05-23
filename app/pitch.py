@@ -61,6 +61,16 @@ def to_intervals(midi_notes: np.ndarray):
         return np.array([])
     return np.diff(midi_notes)
 
+def fold_octaves(intervals: np.ndarray, threshold: int = 6) -> np.ndarray:
+    folded = []
+    for interval in intervals:
+        while interval > threshold:
+            interval -= 12
+        while interval < -threshold:
+            interval += 12
+        folded.append(interval)
+    return np.array(folded)
+
 def process(file_path: str):
     audio, sr = load_audio(file_path)
     pitch, periodicity = extract_pitch(audio, sr)
@@ -72,4 +82,4 @@ def process(file_path: str):
     print(f"midi notes: {midi_notes[:20]}")
     intervals = to_intervals(midi_notes)
     print(f"intervals: {len(intervals)}, first 20: {intervals[:20]}")
-    return intervals
+    return fold_octaves(intervals)

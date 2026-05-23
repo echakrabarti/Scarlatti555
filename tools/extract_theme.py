@@ -2,6 +2,7 @@ import sys
 import argparse
 import pretty_midi
 import numpy as np
+import os
 
 
 def skyline(instrument, n_notes: int = 20, chord_tolerance: float = 0.05) -> list:
@@ -20,6 +21,15 @@ def skyline(instrument, n_notes: int = 20, chord_tolerance: float = 0.05) -> lis
 
     return melody
 
+def fold_octaves(intervals: list, threshold: int = 6) -> list:
+    folded = []
+    for interval in intervals:
+        while interval > threshold:
+            interval -= 12
+        while interval < -threshold:
+            interval += 12
+        folded.append(interval)
+    return folded
 
 def extract(midi_path: str, instrument_index: int = 0, n_notes: int = 20) -> None:
     midi = pretty_midi.PrettyMIDI(midi_path)
@@ -44,7 +54,7 @@ def extract(midi_path: str, instrument_index: int = 0, n_notes: int = 20) -> Non
     print("  " + "  ".join(f"{n:<4}" for n in names))
 
     pitches = np.array([n.pitch for n in melody])
-    intervals = list(np.diff(pitches).astype(int))
+    intervals = fold_octaves([int(x) for x in np.diff(pitches)])
     print(f"\nIntervals ({len(intervals)}):")
     print(f"  {intervals}")
 
@@ -57,14 +67,37 @@ def extract(midi_path: str, instrument_index: int = 0, n_notes: int = 20) -> Non
     print(f'}},')
     print(f'------------------------------')
 
+def batch_extract(midi_dir: str, instrument_index: int = 0, n_notes: int = 20) -> None:
+    """Run extract on every MIDI file in a directory."""
+    midi_files = [f for f in os.listdir(midi_dir) if f.endswith('.mid')]
+    
+    if not midi_files:
+        print(f"No MIDI files found in {midi_dir}")
+        return
+    
+    print(f"Found {len(midi_files)} MIDI files in {midi_dir}\n")
+    print("=" * 60)
+    
+    for filename in sorted(midi_files):
+        path = os.path.join(midi_dir, filename)
+        try:
+            extract(path, instrument_index, n_notes)
+        except Exception as e:
+            print(f"\nFailed on {filename}: {e}")
+        print("=" * 60)
 
 def main():
     parser = argparse.ArgumentParser(description="Extract theme intervals from a MIDI file.")
     parser.add_argument("midi_path", help="Path to the MIDI file")
     parser.add_argument("--instrument", type=int, default=0)
     parser.add_argument("--notes", type=int, default=20)
+    parser.add_argument("--batch", action="store_true",
+                        help="Process all MIDI files in a directory")
     args = parser.parse_args()
-    extract(args.midi_path, args.instrument, args.notes)
+    if args.batch or os.path.isdir(args.midi_path):
+        batch_extract(args.midi_path, args.instrument, args.notes)
+    else:
+        extract(args.midi_path, args.instrument, args.notes)
 
 
 if __name__ == "__main__":
