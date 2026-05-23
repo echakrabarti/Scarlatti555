@@ -5,7 +5,7 @@ Newest entries at the top.
 ## 2026-05-22 - [Day 1: Project architecture, pitch pipeline (pitch.py)]
 - Set up virtual environment
 - Fine-grained outline of stages and stack
-    - 8 week timeline: (1) foundations, (2)matching engine, (3) React web app, (4) React Native mobile
+    - 8 week timeline: (1) foundations, (2) matching engine, (3) React web app, (4) React Native mobile
     - Stack: Python/FastAPI backend, torchcrepe for pitch extraction, pgvector similarity search, Streamlit (Pythom) prototype before React
 - Project architecture:
     - Hum -> main -> pitch (humming is now intervals) -> main -> match (intervals matched to database intervals) -> main -> result (React frontend abstracted for now)
