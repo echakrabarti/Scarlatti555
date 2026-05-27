@@ -4,6 +4,9 @@ from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import numpy as np
 from app import pitch, match
+from datetime import datetime
+
+STARTUP_TIME = datetime.now()
 
 app = FastAPI(
     title = "Scarlatti555",
@@ -28,7 +31,8 @@ def health():
         "status": "ok",
         "version": "0.1.0",
         "corpus_size": len(match.TEST_CORPUS),
-        "corpus_titles": [theme["title"] for theme in match.TEST_CORPUS]
+        "corpus_titles": [theme["title"] for theme in match.TEST_CORPUS],
+        "last_started": STARTUP_TIME.strftime("%Y-%m-%d %H:%M:%S")
     }
 
 @app.post("/identify")
