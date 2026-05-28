@@ -73,7 +73,7 @@ function App() {
 
       try {
         const response = await axios.post(
-          "http://127.0.0.1:8000/identify",
+          "https://web-production-b5bb4.up.railway.app/identify",
           formData,
           { headers: { "Content-Type": "multipart/form-data" } }
         );
