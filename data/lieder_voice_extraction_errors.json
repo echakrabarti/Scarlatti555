@@ -1,0 +1,246 @@
+[
+  {
+    "path": "data/openscore_lieder/scores\\Berlioz,_Hector\\Les_nuits_d\u2019\u00e9t\u00e9,_Op.7\\1_Villanelle\\lc29383976.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Berlioz,_Hector\\Les_nuits_d\u2019\u00e9t\u00e9,_Op.7\\2_Le_spectre_de_la_rose\\lc29062082.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Brahms,_Johannes\\9_Lieder_und_Ges\u00e4nge,_Op.32\\5_Wehe,_so_willst_du_mich_wieder\\lc5846139.mxl",
+    "error": "voice_part_too_short"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Bridge,_Frank\\3_Tagore_Songs,_H.164\\1_Day_After_Day\\lc30890405.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Bridge,_Frank\\3_Tagore_Songs,_H.164\\2_Speak_to_Me,_My_Love!\\lc31741739.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Chaminade,_C\u00e9cile\\_\\Le_No\u00ebl_des_oiseaux\\lc29421629.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Chaminade,_C\u00e9cile\\_\\Villanelle\\lc30190433.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Chopin,_Fr\u00e9d\u00e9ric\\Op.74\\1_\u017byczenie\\lc30707789.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Chopin,_Fr\u00e9d\u00e9ric\\Op.74\\2_Wiosna\\lc30888260.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Debussy,_Claude\\_\\Mandoline\\lc29748596.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Donaudy,_Stefano\\36_Arie_di_Stile_Antico\\10_Spirate_pur,_spirate\\lc29420288.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Faisst,_Clara_Mathilda\\4_Lieder,_Op.1\\1_Altdeutsches_Lied\\lc29243405.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Faur\u00e9,_Gabriel\\4_Songs,_Op.51\\1_Larmes\\lc6135958.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Faur\u00e9,_Gabriel\\4_Songs,_Op.51\\2_Au_cimeti\u00e8re\\lc6137985.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Faur\u00e9,_Gabriel\\4_Songs,_Op.51\\3_Spleen\\lc6141092.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Faur\u00e9,_Gabriel\\4_Songs,_Op.51\\4_La_rose\\lc6138105.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Faur\u00e9,_Gabriel\\Op.27\\1_Chanson_d\u2019amour\\lc29589143.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Faur\u00e9,_Gabriel\\Op.39\\4_Les_roses_d\u2019Ispahan\\lc29989154.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Faur\u00e9,_Gabriel\\Op.4\\2_Lydia\\lc30299786.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Faur\u00e9,_Gabriel\\Op.83\\1_Prison\\lc29748284.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Faur\u00e9,_Gabriel\\Po\u00e8me_d\u2019un_jour,_Op.21\\1_Rencontre\\lc29747321.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Faur\u00e9,_Gabriel\\_\\Vocalise-\u00e9tude\\lc29270672.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Ferrari,_Gabrielle\\_\\Lontan_dagli_occhi,_lontan_dal_cuore,_Op.17\\lc6568021.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Grandval,_Cl\u00e9mence_de\\_\\Le_boh\u00e9mien\\lc6239101.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Hahn,_Reynaldo\\7_Chansons_grises\\5_L\u2019Heure_exquise\\lc32165894.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Hahn,_Reynaldo\\_\\\u00c0_Chloris\\lc32165951.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Holm\u00e8s,_Augusta_Mary_Anne\\20_M\u00e9lodies\\11_La_guerri\u00e8re,_ballade_h\u00e9ro\u00efque\\lc5988117.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Holm\u00e8s,_Augusta_Mary_Anne\\20_M\u00e9lodies\\12_\u00c9vocation_d\u2019amour\\lc5987893.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Holm\u00e8s,_Augusta_Mary_Anne\\20_M\u00e9lodies\\16_La_princesse_sans_c\u0153ur\\lc5986322.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Kralik,_Mathilde\\Jugend-Lieder\\0_Einleitung\\lc6166579.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Leoncavallo,_Ruggero\\_\\Mattinata\\lc29421746.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Liszt,_Franz\\3_sonetti_di_Petrarca,_S.270b\\2_Pace_non_trovo\\lc30065840.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Massenet,_Jules\\_\\\u00c9l\u00e9gie\\lc29026391.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Obradors,_Fernando\\Canciones_Cl\u00e1sicas_Espa\u00f1olas,_Vol.1\\6_Del_cabello_m\u00e1s_sutil\\lc29382602.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Paladilhe,_\u00c9mile\\_\\Psych\u00e9\\lc30321734.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Quilter,_Roger\\To_Julia,_Op.8\\1_Prelude\\lc29093051.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Quilter,_Roger\\To_Julia,_Op.8\\2_The_Bracelet\\lc321919.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Quilter,_Roger\\To_Julia,_Op.8\\4_To_Daisies\\lc30190781.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Quilter,_Roger\\To_Julia,_Op.8\\5_The_Night_Piece\\lc30191099.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Quilter,_Roger\\To_Julia,_Op.8\\7_Interlude\\lc29093213.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Quilter,_Roger\\To_Julia,_Op.8\\8_Cherry_Ripe\\lc30908660.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Reichardt,_Louise\\12_Ges\u00e4nge\\1_Erinnrung_zum_Bach\\lc5087917.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Reichardt,_Louise\\12_Ges\u00e4nge,_Op.3\\12_Duettino\\lc5062143.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Rossini,_Gioachino\\Soir\u00e9es_musicales\\5_L\u2019invito\\lc30064748.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Satie,_Erik\\Ludions\\1_Air_du_rat\\lc6994116.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Satie,_Erik\\Ludions\\2_Spleen\\lc6994136.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Satie,_Erik\\Ludions\\4_Air_du_po\u00e8te\\lc6994174.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Schubert,_Franz\\4_Ges\u00e4nge_aus_\u201eWilhelm_Meister\u201c,_D.877\\1_Mignon_und_der_Harfner\\lc5093434.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Schubert,_Franz\\4_Ges\u00e4nge_aus_\u201eWilhelm_Meister\u201c,_D.877\\3_Lied_der_Mignon_(So_lasst_mich_scheinen)\\lc5093748.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Schubert,_Franz\\4_Ges\u00e4nge_aus_\u201eWilhelm_Meister\u201c,_D.877\\4_Lied_der_Mignon_(Nur_wer_die_Sehnsucht_kennt)\\lc5093803.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Schubert,_Franz\\Die_sch\u00f6ne_M\u00fcllerin,_D.795\\5_Am_Feierabend\\lc4985924.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Schubert,_Franz\\Op.92\\1_Der_Musensohn,_D.764\\lc29747756.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Schubert,_Franz\\_\\Der_Erlk\u00f6nig,_D.328\\lc29062370.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Schumann,_Robert\\Dichterliebe,_Op.48\\1_Im_wundersch\u00f6nen_Monat_Mai\\lc4976777.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Stanford,_Charles_Villiers\\Songs_of_the_Fleet_(Piano),_Op.117\\2_The_Song_of_The_Sou\u2019wester\\lc31208321.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Stanford,_Charles_Villiers\\Songs_of_the_Fleet_(Piano),_Op.117\\5_Fare_Well\\lc31240310.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Tosti,_Francesco_Paolo\\_\\Ideale\\lc29381987.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Viardot,_Pauline\\6_M\u00e9lodies,_VWV_1133-11371176\\5_Madrid,_VWV_1136\\lc5974308.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Wolf,_Hugo\\M\u00f6rike-Lieder\\12_Verborgenheit\\lc29477528.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Wolf,_Hugo\\M\u00f6rike-Lieder\\15_Auf_einer_Wanderung\\lc30893624.mxl",
+    "error": "no_voice_part_found"
+  },
+  {
+    "path": "data/openscore_lieder/scores\\Wolf,_Hugo\\M\u00f6rike-Lieder\\5_Der_Tambour\\lc30890858.mxl",
+    "error": "no_voice_part_found"
+  }
+]
