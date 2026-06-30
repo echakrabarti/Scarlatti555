@@ -1,0 +1,608 @@
+{
+  "clean": [
+    {
+      "true_title": "Schr\u00f6ter, Corona - 25 Lieder - 21 Der Winter",
+      "predicted": "Schr\u00f6ter, Corona - 25 Lieder - 21 Der Winter",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0726
+    },
+    {
+      "true_title": "Reichardt, Louise - 12 Deutsche und Itali\u00e4nische Romantische Ges\u00e4nge - 8 Poesie von Tieck",
+      "predicted": "Reichardt, Louise - 12 Deutsche und Itali\u00e4nische Romantische Ges\u00e4nge - 8 Poesie von Tieck",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.2846
+    },
+    {
+      "true_title": "Chaminade, C\u00e9cile -   - Fleur jet\u00e9e",
+      "predicted": "Chaminade, C\u00e9cile -   - Fleur jet\u00e9e",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0583
+    },
+    {
+      "true_title": "White, Maude Val\u00e9rie - 3 Little Songs - 1 When the Swallows Homeward Fly",
+      "predicted": "White, Maude Val\u00e9rie - 3 Little Songs - 1 When the Swallows Homeward Fly",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.1821
+    },
+    {
+      "true_title": "Schumann, Clara - 6 Lieder, Op.13 - 4 Der Mond kommt still gegangen",
+      "predicted": "Schumann, Clara - 6 Lieder, Op.13 - 4 Der Mond kommt still gegangen",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0705
+    },
+    {
+      "true_title": "Schr\u00f6ter, Corona - 25 Lieder - 14 Die Liebe",
+      "predicted": "Schr\u00f6ter, Corona - 25 Lieder - 14 Die Liebe",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0639
+    },
+    {
+      "true_title": "Brahms, Johannes - 8 Lieder und Ges\u00e4nge, Op.57 - 4 Ach, wende diesen Blick",
+      "predicted": "Brahms, Johannes - 8 Lieder und Ges\u00e4nge, Op.57 - 4 Ach, wende diesen Blick",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.1349
+    },
+    {
+      "true_title": "Brahms, Johannes - 4 Songs, Op.43 - 1 Von ewiger Liebe",
+      "predicted": "Brahms, Johannes - 4 Songs, Op.43 - 1 Von ewiger Liebe",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.147
+    },
+    {
+      "true_title": "Mendelssohn, Felix - 6 Duets, Op.63 - 2 Abschiedslied der Zugv\u00f6gel, MWV J 9",
+      "predicted": "Mendelssohn, Felix - 6 Duets, Op.63 - 2 Abschiedslied der Zugv\u00f6gel, MWV J 9",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.1735
+    },
+    {
+      "true_title": "Ja\u00ebll, Marie - Les Orientales - 6 V\u0153u",
+      "predicted": "Ja\u00ebll, Marie - Les Orientales - 6 V\u0153u",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0827
+    },
+    {
+      "true_title": "Hensel, Fanny - 6 Lieder, Op.1 - 5 Morgenst\u00e4ndchen",
+      "predicted": "Hensel, Fanny - 6 Lieder, Op.1 - 5 Morgenst\u00e4ndchen",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0394
+    },
+    {
+      "true_title": "Brahms, Johannes - 4 Serious Songs, Op.121 - 1 Denn es gehet dem Menschen wie dem Vieh",
+      "predicted": "Brahms, Johannes - 4 Serious Songs, Op.121 - 1 Denn es gehet dem Menschen wie dem Vieh",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0935
+    },
+    {
+      "true_title": "Holm\u00e8s, Augusta Mary Anne - 20 M\u00e9lodies - 3 La barque des amours",
+      "predicted": "Holm\u00e8s, Augusta Mary Anne - 20 M\u00e9lodies - 3 La barque des amours",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.17
+    },
+    {
+      "true_title": "Schumann, Robert - 5 Lieder und Ges\u00e4nge, Op.127 - 3 Es leuchtet meine Liebe",
+      "predicted": "Schumann, Robert - 5 Lieder und Ges\u00e4nge, Op.127 - 3 Es leuchtet meine Liebe",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.1206
+    },
+    {
+      "true_title": "Brahms, Johannes - 5 Lieder, Op.47 - 4 O liebliche Wangen",
+      "predicted": "Brahms, Johannes - 5 Lieder, Op.47 - 4 O liebliche Wangen",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0343
+    },
+    {
+      "true_title": "Reichardt, Louise - 6 Lieder von Novalis, Op.4 - 1 Sehnsucht nach dem Vaterlande",
+      "predicted": "Reichardt, Louise - 6 Lieder von Novalis, Op.4 - 1 Sehnsucht nach dem Vaterlande",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0823
+    },
+    {
+      "true_title": "Schubert, Franz - Die sch\u00f6ne M\u00fcllerin, D.795 - 1 Das Wandern",
+      "predicted": "Schubert, Franz - Die sch\u00f6ne M\u00fcllerin, D.795 - 1 Das Wandern",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.1681
+    },
+    {
+      "true_title": "Hensel, Fanny - 6 Lieder, Op.7 - 6 Dein ist mein Herz",
+      "predicted": "Hensel, Fanny - 6 Lieder, Op.7 - 6 Dein ist mein Herz",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0585
+    },
+    {
+      "true_title": "Parratt, Walter - Choral Songs in Honour of Her Majesty Queen Victoria - 9 With still increasing blessings",
+      "predicted": "Parratt, Walter - Choral Songs in Honour of Her Majesty Queen Victoria - 9 With still increasing blessings",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0982
+    },
+    {
+      "true_title": "Kinkel, Johanna - 6 Lieder, Op.10 - 4 Wiegenlied",
+      "predicted": "Kinkel, Johanna - 6 Lieder, Op.10 - 4 Wiegenlied",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0715
+    }
+  ],
+  "high_accuracy": [
+    {
+      "true_title": "Schr\u00f6ter, Corona - 25 Lieder - 21 Der Winter",
+      "predicted": "Schr\u00f6ter, Corona - 25 Lieder - 21 Der Winter",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0724
+    },
+    {
+      "true_title": "Reichardt, Louise - 12 Deutsche und Itali\u00e4nische Romantische Ges\u00e4nge - 8 Poesie von Tieck",
+      "predicted": "Reichardt, Louise - 12 Deutsche und Itali\u00e4nische Romantische Ges\u00e4nge - 8 Poesie von Tieck",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9989,
+      "top_score": 0.9989,
+      "gap": 0.2695
+    },
+    {
+      "true_title": "Chaminade, C\u00e9cile -   - Fleur jet\u00e9e",
+      "predicted": "Chaminade, C\u00e9cile -   - Fleur jet\u00e9e",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0594
+    },
+    {
+      "true_title": "White, Maude Val\u00e9rie - 3 Little Songs - 1 When the Swallows Homeward Fly",
+      "predicted": "White, Maude Val\u00e9rie - 3 Little Songs - 1 When the Swallows Homeward Fly",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9999,
+      "top_score": 0.9999,
+      "gap": 0.1784
+    },
+    {
+      "true_title": "Schumann, Clara - 6 Lieder, Op.13 - 4 Der Mond kommt still gegangen",
+      "predicted": "Schumann, Clara - 6 Lieder, Op.13 - 4 Der Mond kommt still gegangen",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9999,
+      "top_score": 0.9999,
+      "gap": 0.0713
+    },
+    {
+      "true_title": "Schr\u00f6ter, Corona - 25 Lieder - 14 Die Liebe",
+      "predicted": "Schr\u00f6ter, Corona - 25 Lieder - 14 Die Liebe",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9999,
+      "top_score": 0.9999,
+      "gap": 0.0659
+    },
+    {
+      "true_title": "Brahms, Johannes - 8 Lieder und Ges\u00e4nge, Op.57 - 4 Ach, wende diesen Blick",
+      "predicted": "Brahms, Johannes - 8 Lieder und Ges\u00e4nge, Op.57 - 4 Ach, wende diesen Blick",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.1324
+    },
+    {
+      "true_title": "Brahms, Johannes - 4 Songs, Op.43 - 1 Von ewiger Liebe",
+      "predicted": "Brahms, Johannes - 4 Songs, Op.43 - 1 Von ewiger Liebe",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.145
+    },
+    {
+      "true_title": "Mendelssohn, Felix - 6 Duets, Op.63 - 2 Abschiedslied der Zugv\u00f6gel, MWV J 9",
+      "predicted": "Mendelssohn, Felix - 6 Duets, Op.63 - 2 Abschiedslied der Zugv\u00f6gel, MWV J 9",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9999,
+      "top_score": 0.9999,
+      "gap": 0.1753
+    },
+    {
+      "true_title": "Ja\u00ebll, Marie - Les Orientales - 6 V\u0153u",
+      "predicted": "Ja\u00ebll, Marie - Les Orientales - 6 V\u0153u",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9998,
+      "top_score": 0.9998,
+      "gap": 0.0794
+    },
+    {
+      "true_title": "Hensel, Fanny - 6 Lieder, Op.1 - 5 Morgenst\u00e4ndchen",
+      "predicted": "Hensel, Fanny - 6 Lieder, Op.1 - 5 Morgenst\u00e4ndchen",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0395
+    },
+    {
+      "true_title": "Brahms, Johannes - 4 Serious Songs, Op.121 - 1 Denn es gehet dem Menschen wie dem Vieh",
+      "predicted": "Brahms, Johannes - 4 Serious Songs, Op.121 - 1 Denn es gehet dem Menschen wie dem Vieh",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0936
+    },
+    {
+      "true_title": "Holm\u00e8s, Augusta Mary Anne - 20 M\u00e9lodies - 3 La barque des amours",
+      "predicted": "Holm\u00e8s, Augusta Mary Anne - 20 M\u00e9lodies - 3 La barque des amours",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9999,
+      "top_score": 0.9999,
+      "gap": 0.1734
+    },
+    {
+      "true_title": "Schumann, Robert - 5 Lieder und Ges\u00e4nge, Op.127 - 3 Es leuchtet meine Liebe",
+      "predicted": "Schumann, Robert - 5 Lieder und Ges\u00e4nge, Op.127 - 3 Es leuchtet meine Liebe",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.1186
+    },
+    {
+      "true_title": "Brahms, Johannes - 5 Lieder, Op.47 - 4 O liebliche Wangen",
+      "predicted": "Brahms, Johannes - 5 Lieder, Op.47 - 4 O liebliche Wangen",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9999,
+      "top_score": 0.9999,
+      "gap": 0.033
+    },
+    {
+      "true_title": "Reichardt, Louise - 6 Lieder von Novalis, Op.4 - 1 Sehnsucht nach dem Vaterlande",
+      "predicted": "Reichardt, Louise - 6 Lieder von Novalis, Op.4 - 1 Sehnsucht nach dem Vaterlande",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9998,
+      "top_score": 0.9998,
+      "gap": 0.0813
+    },
+    {
+      "true_title": "Schubert, Franz - Die sch\u00f6ne M\u00fcllerin, D.795 - 1 Das Wandern",
+      "predicted": "Schubert, Franz - Die sch\u00f6ne M\u00fcllerin, D.795 - 1 Das Wandern",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9999,
+      "top_score": 0.9999,
+      "gap": 0.1675
+    },
+    {
+      "true_title": "Hensel, Fanny - 6 Lieder, Op.7 - 6 Dein ist mein Herz",
+      "predicted": "Hensel, Fanny - 6 Lieder, Op.7 - 6 Dein ist mein Herz",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 1.0,
+      "top_score": 1.0,
+      "gap": 0.0577
+    },
+    {
+      "true_title": "Parratt, Walter - Choral Songs in Honour of Her Majesty Queen Victoria - 9 With still increasing blessings",
+      "predicted": "Parratt, Walter - Choral Songs in Honour of Her Majesty Queen Victoria - 9 With still increasing blessings",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9999,
+      "top_score": 0.9999,
+      "gap": 0.0999
+    },
+    {
+      "true_title": "Kinkel, Johanna - 6 Lieder, Op.10 - 4 Wiegenlied",
+      "predicted": "Kinkel, Johanna - 6 Lieder, Op.10 - 4 Wiegenlied",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9734,
+      "top_score": 0.9734,
+      "gap": 0.0859
+    }
+  ],
+  "low_accuracy": [
+    {
+      "true_title": "Schr\u00f6ter, Corona - 25 Lieder - 21 Der Winter",
+      "predicted": "Schr\u00f6ter, Corona - 25 Lieder - 21 Der Winter",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9904,
+      "top_score": 0.9904,
+      "gap": 0.0542
+    },
+    {
+      "true_title": "Reichardt, Louise - 12 Deutsche und Itali\u00e4nische Romantische Ges\u00e4nge - 8 Poesie von Tieck",
+      "predicted": "Holm\u00e8s, Augusta Mary Anne - M\u00e9lodies pour piano et chant - 1 No\u00ebl",
+      "correct": false,
+      "top3_correct": false,
+      "true_rank": 1066,
+      "true_score": -0.2459,
+      "top_score": 0.8296,
+      "gap": 0.0045
+    },
+    {
+      "true_title": "Chaminade, C\u00e9cile -   - Fleur jet\u00e9e",
+      "predicted": "Chaminade, C\u00e9cile -   - Fleur jet\u00e9e",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9871,
+      "top_score": 0.9871,
+      "gap": 0.0535
+    },
+    {
+      "true_title": "White, Maude Val\u00e9rie - 3 Little Songs - 1 When the Swallows Homeward Fly",
+      "predicted": "Schumann, Robert - Myrthen, Op.25 - 3 Der Nussbaum",
+      "correct": false,
+      "top3_correct": false,
+      "true_rank": 27,
+      "true_score": 0.5496,
+      "top_score": 0.7546,
+      "gap": 0.0015
+    },
+    {
+      "true_title": "Schumann, Clara - 6 Lieder, Op.13 - 4 Der Mond kommt still gegangen",
+      "predicted": "Brahms, Johannes - 8 Lieder and Romances, Op.14 - 5 Trennung",
+      "correct": false,
+      "top3_correct": false,
+      "true_rank": 521,
+      "true_score": 0.1161,
+      "top_score": 0.9104,
+      "gap": 0.0252
+    },
+    {
+      "true_title": "Schr\u00f6ter, Corona - 25 Lieder - 14 Die Liebe",
+      "predicted": "Schr\u00f6ter, Corona - 25 Lieder - 14 Die Liebe",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9985,
+      "top_score": 0.9985,
+      "gap": 0.0713
+    },
+    {
+      "true_title": "Brahms, Johannes - 8 Lieder und Ges\u00e4nge, Op.57 - 4 Ach, wende diesen Blick",
+      "predicted": "Brahms, Johannes - 8 Lieder und Ges\u00e4nge, Op.57 - 4 Ach, wende diesen Blick",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9365,
+      "top_score": 0.9365,
+      "gap": 0.0881
+    },
+    {
+      "true_title": "Brahms, Johannes - 4 Songs, Op.43 - 1 Von ewiger Liebe",
+      "predicted": "Brahms, Johannes - 4 Songs, Op.43 - 1 Von ewiger Liebe",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9951,
+      "top_score": 0.9951,
+      "gap": 0.1618
+    },
+    {
+      "true_title": "Mendelssohn, Felix - 6 Duets, Op.63 - 2 Abschiedslied der Zugv\u00f6gel, MWV J 9",
+      "predicted": "Brahms, Johannes - 5 Lieder, Op.47 - 4 O liebliche Wangen",
+      "correct": false,
+      "top3_correct": false,
+      "true_rank": 15,
+      "true_score": 0.7988,
+      "top_score": 0.8961,
+      "gap": 0.0125
+    },
+    {
+      "true_title": "Ja\u00ebll, Marie - Les Orientales - 6 V\u0153u",
+      "predicted": "Wolf, Hugo - Eichendorff-Lieder - 11 Lieber Alles",
+      "correct": false,
+      "top3_correct": false,
+      "true_rank": 8,
+      "true_score": 0.8764,
+      "top_score": 0.921,
+      "gap": 0.0073
+    },
+    {
+      "true_title": "Hensel, Fanny - 6 Lieder, Op.1 - 5 Morgenst\u00e4ndchen",
+      "predicted": "Hensel, Fanny - 6 Lieder, Op.1 - 5 Morgenst\u00e4ndchen",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9836,
+      "top_score": 0.9836,
+      "gap": 0.022
+    },
+    {
+      "true_title": "Brahms, Johannes - 4 Serious Songs, Op.121 - 1 Denn es gehet dem Menschen wie dem Vieh",
+      "predicted": "Brahms, Johannes - 4 Serious Songs, Op.121 - 1 Denn es gehet dem Menschen wie dem Vieh",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9219,
+      "top_score": 0.9219,
+      "gap": 0.0375
+    },
+    {
+      "true_title": "Holm\u00e8s, Augusta Mary Anne - 20 M\u00e9lodies - 3 La barque des amours",
+      "predicted": "Debussy, Claude - Ariettes Oubli\u00e9es - 2 Il pleure dans mon coeur",
+      "correct": false,
+      "top3_correct": false,
+      "true_rank": 9,
+      "true_score": 0.8294,
+      "top_score": 0.8957,
+      "gap": 0.0073
+    },
+    {
+      "true_title": "Schumann, Robert - 5 Lieder und Ges\u00e4nge, Op.127 - 3 Es leuchtet meine Liebe",
+      "predicted": "Schumann, Robert - 5 Lieder und Ges\u00e4nge, Op.127 - 3 Es leuchtet meine Liebe",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9861,
+      "top_score": 0.9861,
+      "gap": 0.0918
+    },
+    {
+      "true_title": "Brahms, Johannes - 5 Lieder, Op.47 - 4 O liebliche Wangen",
+      "predicted": "Brahms, Johannes - 5 Lieder, Op.47 - 4 O liebliche Wangen",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.997,
+      "top_score": 0.997,
+      "gap": 0.0358
+    },
+    {
+      "true_title": "Reichardt, Louise - 6 Lieder von Novalis, Op.4 - 1 Sehnsucht nach dem Vaterlande",
+      "predicted": "Chaminade, C\u00e9cile -   - Amoroso",
+      "correct": false,
+      "top3_correct": true,
+      "true_rank": 2,
+      "true_score": 0.8463,
+      "top_score": 0.88,
+      "gap": 0.0337
+    },
+    {
+      "true_title": "Schubert, Franz - Die sch\u00f6ne M\u00fcllerin, D.795 - 1 Das Wandern",
+      "predicted": "Mendelssohn, Felix - 6 Duets, Op.63 - 5 Volkslied, MWV J 10",
+      "correct": false,
+      "top3_correct": false,
+      "true_rank": 6,
+      "true_score": 0.7326,
+      "top_score": 0.8427,
+      "gap": 0.0117
+    },
+    {
+      "true_title": "Hensel, Fanny - 6 Lieder, Op.7 - 6 Dein ist mein Herz",
+      "predicted": "Hensel, Fanny - 6 Lieder, Op.7 - 6 Dein ist mein Herz",
+      "correct": true,
+      "top3_correct": true,
+      "true_rank": 1,
+      "true_score": 0.9759,
+      "top_score": 0.9759,
+      "gap": 0.0998
+    },
+    {
+      "true_title": "Parratt, Walter - Choral Songs in Honour of Her Majesty Queen Victoria - 9 With still increasing blessings",
+      "predicted": "German, Edward - 3 Spring Songs - 3 My Song Is of the Sturdy North",
+      "correct": false,
+      "top3_correct": true,
+      "true_rank": 2,
+      "true_score": 0.8436,
+      "top_score": 0.9322,
+      "gap": 0.0886
+    },
+    {
+      "true_title": "Kinkel, Johanna - 6 Lieder, Op.10 - 4 Wiegenlied",
+      "predicted": "Cowen, Frederic Hymen -   - Hail!",
+      "correct": false,
+      "top3_correct": false,
+      "true_rank": 4,
+      "true_score": 0.7924,
+      "top_score": 0.8342,
+      "gap": 0.0143
+    }
+  ]
+}
