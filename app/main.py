@@ -5,6 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import numpy as np
 from app import pitch, match
 from datetime import datetime
+from app.match import CORPUS_TITLES
 
 STARTUP_TIME = datetime.now()
 
@@ -25,12 +26,12 @@ app.add_middleware(
 def root():
     return {"status":"ok", "message":"Scarlatti555 is running"}
 
-@app.get("/health")
 def health():
     return {
         "status": "ok",
-        "version": "0.1.0",
-        "corpus_size": len(match.TEST_CORPUS),
+        "version": "0.2.0",
+        "corpus_size": len(CORPUS_TITLES),
+        "matcher": "siamese_encoder",
         "corpus_titles": [theme["title"] for theme in match.TEST_CORPUS],
         "last_started": STARTUP_TIME.strftime("%Y-%m-%d %H:%M:%S")
     }
