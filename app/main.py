@@ -40,8 +40,7 @@ def health():
 def corpus():
     return {
         "corpus_size": len(CORPUS_TITLES),
-        "titles": CORPUS_TITLES,
-        "composers": list(set(CORPUS_COMPOSERS))
+        "titles": CORPUS_TITLES
     }
 
 @app.post("/identify")
